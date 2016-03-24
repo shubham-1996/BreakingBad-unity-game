@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a12ffd8986f1b0e4faf1d6db37402195
+timeCreated: 1454801589
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - livesText: {instanceID: 0}
+  - gameOver: {fileID: 164958, guid: 54b491d9db588de41ab79d48296632f5, type: 2}
+  - youWon: {instanceID: 0}
+  - bricksPrefab: {instanceID: 0}
+  - paddle: {instanceID: 0}
+  - deathParticles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
